@@ -19,7 +19,7 @@ function App() {
  
 
   return (
-    <div>
+    <div className='background'>
       <div id='quote-box'>
         <div className='quote-content'>
           <FaQuoteLeft size="30" style={{ marginRight: "10px"}}/>
